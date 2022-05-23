@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:id="@+id/main_menu"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cars"
+            android:title="@string/title_cars" />
+
+        <item
+            android:id="@+id/nav_tenancy_rules"
+            android:title="@string/title_tenancy_rules" />
+        <item
+            android:id="@+id/nav_contacts"
+            android:title="@string/title_contacts" />
+        <item
+            android:id="@+id/nav_privacy_policy"
+            android:title="@string/title_privacy_policy" />
+        <item
+            android:id="@+id/nav_cabinet"
+            android:title="@string/title_cabinet"
+            android:visible="false"
+            />
+        <item
+            android:id="@+id/nav_enter"
+            android:title="@string/title_enter"
+            android:checkable="false"
+            />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Выход"
+            android:checkable="false"
+            android:visible="false"
+            />
+
+    </group>
+
+
+</menu>

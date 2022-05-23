@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Компания "Вираж"</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Компания "Вираж"</string>
+    <string name="nav_header_subtitle">spbvt.ru</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_tariffs">Тарифы</string>
+    <string name="title_tenancy_rules">Компания</string>
+    <string name="title_contacts">Контакты</string>
+    <string name="title_privacy_policy">Политика конфиденциальности</string>
+    <string name="title_cabinet">Мои заказы</string>
+    <string name="title_enter">Вход</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_cars">Каталог</string>
+    <string name="title_map">Карта</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="title_activity_login">Авторизация</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Вход</string>
+    <string name="action_sign_in_short">Вход</string>
+    <string name="error_invalid_email">Некорректно введен email</string>
+    <string name="error_invalid_password">Слишком котортий пароль</string>
+    <string name="error_incorrect_password">Некорректный пароль</string>
+    <string name="error_field_required">Необходимо заполнить</string>
+    <string name="permission_rationale">"Необходимо разрешение для использования подстановки адреса электронной почты."</string>
+    <string name="title_activity_car">Автомобиль</string>
+    <string name="gear_box_type">Тип коробки</string>
+    <string name="body_type">Тип кузова</string>
+    <string name="engine_type">Тип двигателя</string>
+    <string name="power">Мощность (л.с.)</string>
+    <string name="year">Год выпуска</string>
+    <string name="create_request">Оформление заказа</string>
+    <string name="login">Логин</string>
+    <string name="title_activity_registration">Регистрация</string>
+    <string name="title_activity_user_profile">Мой профиль</string>
+</resources>
